@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/felixrodriguez2nd/demo-app
-  newTag: latest
+  newTag: 21ecff9203241d0bb195a609e57d5974ebdb5928
